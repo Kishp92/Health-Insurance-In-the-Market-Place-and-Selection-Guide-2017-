@@ -1,6 +1,6 @@
 # Health-Insurance-In-the-Market-Place-and-Selection-Guide-2017-
 
-# ABSTRACT
+## ABSTRACT
 
 An overview of Marketplace Health Insurance to define and analyze metal(tiers) types and plan types based on location and availability. Also includes highlights of average premiums based on age and partnered status along with a guideline to select an insurance plan best suited for the consumer's healthcare needs. 
 
