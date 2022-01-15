@@ -6,6 +6,6 @@ An overview of Marketplace Health Insurance to define and analyze metal(tiers) t
 
 Tableau Dashboard Link: Overview  https://public.tableau.com/app/profile/kishan.patel2847/viz/HealthInsurance13Overview/Highlights
 
-Tableau Dashboard Link: Average and Individual Selection Guide https://public.tableau.com/app/profile/kishan.patel2847/viz/HealthInsurance23SelectionToolforIndividuals/CouplePlanSelection
+Tableau Dashboard Link: Average and Individual Selection Guide 
 
 Tableau Dashboard Link: Average and Couple Selection Guide: https://public.tableau.com/app/profile/kishan.patel2847/viz/HealthInsurance33SelectionToolforCouples/CouplePlanSelection
