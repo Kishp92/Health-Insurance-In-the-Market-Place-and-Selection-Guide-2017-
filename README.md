@@ -29,5 +29,4 @@ In my 7+ years in the healthcare management field, there has not been a day at w
 "https://github.com/Kishp92/Health-Insurance-In-the-Market-Place-and-Selection-Guide-2017-/blob/28ce4cd5623ca9496cd46fb545c144479f8c0c09/PB%20Indiv.jpg" />
 
 
-<img src =
-"https://github.com/Kishp92/Health-Insurance-In-the-Market-Place-and-Selection-Guide-2017-/blob/28ce4cd5623ca9496cd46fb545c144479f8c0c09/PB%20Couples.jpg" />
+
